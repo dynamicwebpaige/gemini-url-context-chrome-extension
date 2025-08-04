@@ -65,7 +65,7 @@ gemini-url-context-chrome-extension/
 ## Development Notes
 
 *   **API Key Security:** The Gemini API key is stored locally using `chrome.storage.local` for security. It is crucial **not** to hardcode API keys directly into the source code.
-*   **Gemini API Model:** This extension uses the `gemini-1.5-flash` model, which supports the `url_context` tool. Ensure your API key is provisioned for models that support this feature.
+*   **Gemini API Model:** This extension uses the `gemini-2.5-flash-lite` model, which supports the `url_context` tool. Ensure your API key is provisioned for models that support this feature.
 *   **Error Handling:** Basic error handling is included to inform the user if the API key is missing or if there are issues with the API call.
 
 ## Contributing
