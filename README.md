@@ -50,7 +50,7 @@ Tired of having dozens of tabs open? This Chrome extension transforms your brows
 ## Project Structure
 
 ```
-tab-newsletter-extension/
+gemini-url-context-chrome-extension/
 ├── manifest.json         # Defines the extension's metadata, permissions, and entry points.
 ├── background.js         # Handles API calls, tab querying, and message listening.
 ├── popup.html            # The UI that appears when the extension icon is clicked.
