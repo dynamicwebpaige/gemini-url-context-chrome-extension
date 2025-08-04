@@ -4,6 +4,8 @@
 
 Tired of having dozens of tabs open? This Chrome extension transforms your browsing session into a concise and organized newsletter. It leverages the power of the Gemini API's **URL Context** feature to intelligently summarize the content of all your open tabs into a readable newsletter format with just one click.
 
+Note: this is intended to be a template project, not a production tool! Please modify to meet your needs. :smile:
+
 ## Features
 
 *   **One-Click Tab Summarization:** Generate a newsletter from all your open tabs instantly.
