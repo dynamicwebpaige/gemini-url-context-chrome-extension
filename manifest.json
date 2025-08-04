@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Tab to Newsletter",
+  "version": "1.1",
+  "description": "Summarizes all open tabs into a newsletter using the Gemini API.",
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://generativelanguage.googleapis.com/"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "128": "images/icon128.png"
+    }
+  },
+  "icons": {
+    "128": "images/icon128.png"
+  },
+  "options_page": "options.html"
+}
