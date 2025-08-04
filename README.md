@@ -38,6 +38,7 @@ Tired of having dozens of tabs open? This Chrome extension transforms your brows
     *   Right-click the extension icon and select **"Options"**.
     *   Alternatively, go to `chrome://extensions`, find the extension, click **"Details"**, then **"Extension options"**.
     *   Paste your Gemini API key into the provided input field and click **"Save Key"**.
+    *   You can get a Gemini API key to use for this project, for free, at [Google AI Studio](https://aistudio.google.com).
 
 ### Usage
 
