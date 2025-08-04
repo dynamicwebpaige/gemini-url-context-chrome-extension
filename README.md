@@ -74,4 +74,4 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. (You'll want to create a `LICENSE.md` file with the MIT license text.)
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. (You'll want to create a `LICENSE.md` file with the Apache 2.0 license text.)
